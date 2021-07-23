@@ -1,0 +1,68 @@
+2021-07-22 22:57:37,021 INFO werkzeug :  * Restarting with stat
+2021-07-22 22:57:38,433 WARNING werkzeug :  * Debugger is active!
+2021-07-22 22:57:38,437 INFO werkzeug :  * Debugger PIN: 477-281-661
+2021-07-22 22:57:38,545 INFO werkzeug :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-22 22:57:59,557 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 22:57:59] "GET / HTTP/1.1" 200 -
+2021-07-22 22:58:04,160 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 22:58:04] "POST / HTTP/1.1" 200 -
+2021-07-22 22:58:09,397 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 22:58:09] "GET /dashboard/ HTTP/1.1" 200 -
+2021-07-22 22:58:09,414 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 22:58:09] "GET /dashboard/_dash-component-suites/dash_renderer/react@16.v1_1_2m1576595738.8.6.min.js HTTP/1.1" 200 -
+2021-07-22 22:58:09,416 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 22:58:09] "GET /dashboard/_dash-component-suites/dash_renderer/prop-types@15.v1_1_2m1576595738.7.2.min.js HTTP/1.1" 200 -
+2021-07-22 22:58:09,419 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 22:58:09] "GET /dashboard/_dash-component-suites/dash_renderer/react-dom@16.v1_1_2m1576595738.8.6.min.js HTTP/1.1" 200 -
+2021-07-22 22:58:09,419 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 22:58:09] "GET /dashboard/_dash-component-suites/dash_core_components/highlight.v1_3_1m1576595950.pack.js HTTP/1.1" 200 -
+2021-07-22 22:58:09,436 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 22:58:09] "GET /dashboard/_dash-component-suites/dash_html_components/dash_html_components.v1_0_1m1576596177.min.js HTTP/1.1" 200 -
+2021-07-22 22:58:09,439 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 22:58:09] "GET /dashboard/_dash-component-suites/dash_renderer/dash_renderer.v1_1_2m1576595738.min.js HTTP/1.1" 200 -
+2021-07-22 22:58:09,456 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 22:58:09] "GET /dashboard/_dash-component-suites/dash_core_components/dash_core_components.v1_3_1m1576595950.min.js HTTP/1.1" 200 -
+2021-07-22 22:58:09,530 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 22:58:09] "GET /dashboard/_dash-component-suites/dash_core_components/plotly-1.v1_3_1m1576595950.50.1.min.js HTTP/1.1" 200 -
+2021-07-22 22:58:09,792 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 22:58:09] "GET /dashboard/_dash-dependencies HTTP/1.1" 200 -
+2021-07-22 22:58:09,797 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 22:58:09] "GET /dashboard/_dash-layout HTTP/1.1" 200 -
+2021-07-22 22:58:09,977 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 22:58:09] "GET /dashboard/_favicon.ico?v=1.19.0 HTTP/1.1" 200 -
+2021-07-22 22:58:14,326 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 22:58:14] "GET / HTTP/1.1" 200 -
+2021-07-22 22:58:18,916 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 22:58:18] "POST / HTTP/1.1" 200 -
+2021-07-22 22:59:20,099 INFO werkzeug :  * Restarting with stat
+2021-07-22 22:59:21,528 WARNING werkzeug :  * Debugger is active!
+2021-07-22 22:59:21,531 INFO werkzeug :  * Debugger PIN: 477-281-661
+2021-07-22 22:59:21,633 INFO werkzeug :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-22 23:01:10,741 INFO werkzeug :  * Restarting with stat
+2021-07-22 23:01:12,199 WARNING werkzeug :  * Debugger is active!
+2021-07-22 23:01:12,203 INFO werkzeug :  * Debugger PIN: 477-281-661
+2021-07-22 23:01:12,312 INFO werkzeug :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-22 23:01:39,336 INFO werkzeug :  * Restarting with stat
+2021-07-22 23:01:40,730 WARNING werkzeug :  * Debugger is active!
+2021-07-22 23:01:40,733 INFO werkzeug :  * Debugger PIN: 477-281-661
+2021-07-22 23:01:40,840 INFO werkzeug :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-22 23:02:36,239 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 23:02:36] "GET / HTTP/1.1" 200 -
+2021-07-22 23:02:40,617 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 23:02:40] "POST / HTTP/1.1" 200 -
+2021-07-22 23:02:42,584 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 23:02:42] "GET / HTTP/1.1" 200 -
+2021-07-22 23:02:45,543 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 23:02:45] "POST / HTTP/1.1" 200 -
+2021-07-22 23:05:42,063 INFO werkzeug :  * Restarting with stat
+2021-07-22 23:05:43,460 WARNING werkzeug :  * Debugger is active!
+2021-07-22 23:05:43,463 INFO werkzeug :  * Debugger PIN: 477-281-661
+2021-07-22 23:05:43,565 INFO werkzeug :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-22 23:05:49,127 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 23:05:49] "GET / HTTP/1.1" 200 -
+2021-07-22 23:05:53,985 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 23:05:53] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2021-07-22 23:05:54,000 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 23:05:54] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-07-22 23:05:54,000 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 23:05:54] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-07-22 23:05:54,008 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 23:05:54] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-22 23:05:54,038 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 23:05:54] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-07-22 23:05:54,074 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 23:05:54] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-22 23:06:47,676 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 23:06:47] "GET / HTTP/1.1" 200 -
+2021-07-22 23:06:52,063 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 23:06:52] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2021-07-22 23:06:52,076 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 23:06:52] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-07-22 23:06:52,076 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 23:06:52] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-07-22 23:06:52,084 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 23:06:52] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-22 23:06:52,114 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 23:06:52] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-07-22 23:06:52,141 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 23:06:52] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-07-22 23:11:00,394 INFO werkzeug :  * Restarting with stat
+2021-07-22 23:11:02,014 WARNING werkzeug :  * Debugger is active!
+2021-07-22 23:11:02,019 INFO werkzeug :  * Debugger PIN: 477-281-661
+2021-07-22 23:11:02,147 INFO werkzeug :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-22 23:11:04,892 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 23:11:04] "GET / HTTP/1.1" 200 -
+2021-07-22 23:11:09,319 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 23:11:09] "POST / HTTP/1.1" 200 -
+2021-07-22 23:12:11,709 INFO werkzeug :  * Restarting with stat
+2021-07-22 23:12:13,255 WARNING werkzeug :  * Debugger is active!
+2021-07-22 23:12:13,259 INFO werkzeug :  * Debugger PIN: 477-281-661
+2021-07-22 23:12:13,364 INFO werkzeug :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-07-22 23:12:15,947 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 23:12:15] "GET / HTTP/1.1" 200 -
+2021-07-22 23:12:18,364 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 23:12:18] "GET /dashboard/ HTTP/1.1" 200 -
+2021-07-22 23:12:18,688 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 23:12:18] "GET /dashboard/_dash-dependencies HTTP/1.1" 200 -
+2021-07-22 23:12:18,692 INFO werkzeug : 127.0.0.1 - - [22/Jul/2021 23:12:18] "GET /dashboard/_dash-layout HTTP/1.1" 200 -
