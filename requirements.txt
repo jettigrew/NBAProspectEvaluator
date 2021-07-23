@@ -1,58 +1,37 @@
-# This file may be used to create an environment using:
-# $ conda create --name <env> --file <this file>
-# platform: win-64
-blas==1.0==mkl
-bottleneck==1.3.2==py39h7cc1a96_1
-brotlipy==0.7.0==py39h2bbff1b_1003
-ca-certificates==2021.7.5==haa95532_1
-certifi==2021.5.30==py39haa95532_0
-cffi==1.14.6==py39h2bbff1b_0
-click==8.0.1==py39hcbf5309_0
-colorama==0.4.4==pyh9f0ad1d_0
-dash==1.19.0==pyhd3eb1b0_0
-dash-core-components==1.3.1==py_0
-dash-html-components==1.0.1==py_0
-dash-renderer==1.1.2==py_0
-dash-table==4.4.1==py_0
-dataclasses==0.8==pyhc8e2a94_1
-flask==2.0.1==pyhd8ed1ab_0
-flask-compress==1.5.0==py_0
-future==0.18.2==py39haa95532_1
-gunicorn==20.1.0==pypi_0
-icc_rt==2019.0.0==h0cc432a_1
-intel-openmp==2021.3.0==haa95532_3372
-itsdangerous==2.0.1==pyhd8ed1ab_0
-jinja2==3.0.1==pyhd8ed1ab_0
-joblib==1.0.1==pyhd3eb1b0_0
-markupsafe==2.0.1==py39hb82d6ee_0
-mkl==2021.3.0==haa95532_524
-mkl-service==2.4.0==py39h2bbff1b_0
-mkl_fft==1.3.0==py39h277e83a_2
-mkl_random==1.2.2==py39hf11a4ad_0
-numexpr==2.7.3==py39hb80d3ca_1
-numpy==1.20.3==py39ha4e8547_0
-numpy-base==1.20.3==py39hc2deb75_0
-openssl==1.1.1k==h2bbff1b_0
-pandas==1.3.0==py39hd77b12b_0
-pip==21.1.3==py39haa95532_0
-plotly==4.14.3==pyhd3eb1b0_0
-pycparser==2.20==py_2
-python==3.9.5==h6244533_3
-python-dateutil==2.8.2==pyhd3eb1b0_0
-python_abi==3.9==2_cp39
-pytz==2021.1==pyhd3eb1b0_0
-pyyaml==5.4.1==py39h2bbff1b_1
-retrying==1.3.3==py_2
-scikit-learn==0.24.2==py39hf11a4ad_1
-scipy==1.6.2==py39h66253e8_1
-setuptools==52.0.0==py39haa95532_0
-six==1.16.0==pyhd3eb1b0_0
-sqlite==3.36.0==h2bbff1b_0
-threadpoolctl==2.2.0==pyhb85f177_0
-tzdata==2021a==h52ac0ba_0
-vc==14.2==h21ff451_1
-vs2015_runtime==14.27.29016==h5e58377_2
-werkzeug==2.0.1==pyhd8ed1ab_0
-wheel==0.36.2==pyhd3eb1b0_0
-wincertstore==0.2==py39h2bbff1b_0
-yaml==0.2.5==he774522_0
+Bottleneck @ file:///C:/ci/bottleneck_1607557040328/work
+brotlipy==0.7.0
+certifi==2021.5.30
+cffi @ file:///C:/ci/cffi_1625831756778/work
+click @ file:///D:/bld/click_1621503904640/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
+dash @ file:///tmp/build/80754af9/dash_1611168717544/work
+dash-core-components==1.3.1
+dash-html-components==1.0.1
+dash-renderer==1.1.2
+dash-table==4.4.1
+Flask @ file:///home/conda/feedstock_root/build_artifacts/flask_1621629915293/work
+Flask-Compress==1.5.0
+future @ file:///C:/ci/future_1607568713721/work
+gunicorn==20.1.0
+itsdangerous @ file:///home/conda/feedstock_root/build_artifacts/itsdangerous_1621360792037/work
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1621419064915/work
+joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
+MarkupSafe @ file:///D:/bld/markupsafe_1621455953770/work
+mkl-fft==1.3.0
+mkl-random @ file:///C:/ci/mkl_random_1626186184308/work
+mkl-service==2.4.0
+numexpr @ file:///C:/ci/numexpr_1618856728739/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1626271900803/work
+pandas @ file:///C:/ci/pandas_1626784227284/work
+plotly @ file:///tmp/build/80754af9/plotly_1610565580232/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+PyYAML==5.4.1
+retrying==1.3.3
+scikit-learn @ file:///C:/ci/scikit-learn_1622739499047/work
+scipy @ file:///C:/ci/scipy_1618856124610/work
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+threadpoolctl @ file:///tmp/build/80754af9/threadpoolctl_1626115094421/work
+Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1621518206714/work
+wincertstore==0.2
